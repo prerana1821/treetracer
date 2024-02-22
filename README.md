@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/prerana1821/treetracer">
-    <img src="./icons/logo.png" alt="Logo" width="80" height="80">
+    <img src="./logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Tree Tracer 📸</h3>
@@ -8,7 +8,7 @@
   <p align="center">
       Some TAGLINE
     <br />
-    <a href=""><strong>Go to App »</strong></a>
+    <a href="https://treetracer.netlify.app/"><strong>Go to App »</strong></a>
     <br />
     <br />
     <a href="https://github.com/prerana1821/treetracer/pulls">Raise a PR</a>
